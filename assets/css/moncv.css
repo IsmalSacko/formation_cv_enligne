@@ -1,0 +1,26 @@
+
+.section_entete{
+    background-color: cornflowerblue;
+    
+}
+.profil_cv{
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    margin-left: 60px;
+    border-radius: 50%;
+    
+}
+.cv_name{
+    display: flex;
+}
+.cv_item{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: white;
+}
+.cv_item a{
+    text-decoration: none;
+    color: white;
+}
+
